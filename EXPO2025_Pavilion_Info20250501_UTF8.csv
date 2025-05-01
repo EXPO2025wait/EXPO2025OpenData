@@ -1,0 +1,103 @@
+﻿Zone,Name-JP,Name-EN,EntryType,Open,Close
+C,ルクセンブルク,Luxembourg,First-Come,9:00 ,21:00
+C,ドイツ,Germany,First-Come,9:00 ,21:00
+C,大韓民国,Republic of Korea,First-Come,9:00 ,21:00
+C,コモンズ-F,Commons-F,Walk-In,9:00 ,21:00
+C,デジタルウォレットパーク,Digital Wallet Park,Walk-In,11:00 ,18:00
+C,アゼルバイジャン,Azerbaijan,Walk-In,9:00 ,21:00
+C,夜の地球,Earth at Night,Walk-In,9:00 ,21:00
+C,モナコ,Monaco,Walk-In,9:30 ,21:00
+C,トルコ,Turkiye,Walk-In,9:30 ,21:00
+C,タイ,Thailand,First-Come,9:30 ,21:00
+C,スペイン,Spain,First-Come,9:30 ,21:00
+C,サウジアラビア王国,Saudi Arabia,Walk-In,9:00 ,21:00
+C,オーストラリア,Australia,First-Come,9:00 ,21:00
+C,インドネシア,Indonesia,First-Come,9:00 ,21:00
+C,ウズベキスタン,Uzbekistan,Walk-In,9:30 ,21:00
+C,コモンズ,Commons-B,Walk-In,9:00 ,21:00
+C,エジプト,Egypt,First-Come,9:00 ,21:00
+C,セネガル,Senegal,First-Come,9:00 ,21:00
+C,バングラデシュ,Bangladesh,First-Come,9:00 ,21:00
+C,セルビア,Serbia,Both,9:00 ,21:00
+S,ベルギー,Belgium,First-Come,9:00 ,21:00
+S,欧州連合,EU,Walk-In,9:00 ,21:00
+S,バルト（ラトビア＆リトアニア）,Baltic Latvia and Lithuania,Walk-In,9:00 ,21:00
+S,アルジェリア,Algeria,Walk-In,9:00 ,21:00
+S,カンボジア,Cambodia,First-Come,9:00 ,21:00
+S,チュニジア,Tunisia,First-Come,9:00 ,21:00
+S,チリ,Chile,Walk-In,9:00 ,21:00
+S,コモンズ-C,Commons-C,Walk-In,9:00 ,21:00
+S,イタリア・バチカン,Italy and The Holy See,First-Come,9:00 ,21:00
+S,シンガポール,Singapore,Walk-In,9:00 ,21:00
+S,ブルガリア,Bulgaria,First-Come,9:00 ,21:00
+S,オランダ,Netherlands,Walk-In,9:30 ,21:00
+S,コモンズ-D,Commons,Walk-In,9:00 ,21:00
+S,オマーン,Oman,First-Come,9:00 ,21:00
+S,ハンガリー,Hungary,First-Come,9:30 ,21:00
+S,ルーマニア,Romania,Both,9:00 ,21:00
+S,英国,United Kingdom,First-Come,9:00 ,21:00
+S,アンゴラ,Angola,Not-Open,9:00 ,21:00
+S,ポーランド,Poland,Walk-In,9:30,21:00
+P,アイルランド,Ireland,Both,9:00 ,21:00
+P,マレーシア,Malaysia,Both,9:00 ,21:00
+P,コモンズ-A,Commons-A,Walk-In,9:00 ,21:00
+P,フィリピン,Philippines,First-Come,9:00 ,21:00
+P,モザンビーク,Mozambique,First-Come,9:00 ,21:00
+P,空飛ぶクルマステーション,Advanced Air Mobility Station,Walk-In,9:20 ,21:00
+P,ぺルー,Peru,Walk-In,9:00 ,21:00
+P,ヨルダン,Jordan,First-Come,9:00 ,21:00
+P,アメリカ合衆国,United States of America,First-Come,9:00 ,21:00
+P,フランス,France,First-Come,9:00 ,21:00
+P,ミャクミャクハウス,MYAKU-MYAKU House,Walk-In,10:00,19:00
+P,ロボット＆モビリティステーション,Robot & Mobility Station,Walk-In,9:00 ,21:00
+P,カタール,Qatar,First-Come,9:00 ,21:00
+P,アラブ首長国連邦,United Arab Emirates,Both,9:00 ,21:00
+P,カナダ,Canada,First-Come,9:00 ,21:00
+P,ポルトガル,Portugal,First-Come,9:00 ,21:00
+P,コロンビア,Colombia,Both,9:00 ,21:00
+P,スイス,Switzerland,First-Come,9:00 ,21:00
+P,オーストリア,Austria,First-Come,9:00 ,21:00
+P,ブラジル,Brazil,Walk-In,9:00 ,21:00
+P,クウェート,Kuwait,Both,9:00 ,21:00
+P,中華人民共和国,China,Walk-In,9:00 ,21:00
+P,バーレーン,Bahrain,Walk-In,9:00 ,21:00
+P,トルクメニスタン,Turkmenistan,First-Come,9:00 ,21:00
+P,北欧館,Nordic,Walk-In,9:00 ,21:00
+P,マルタ,Malta,Walk-In,9:30 ,21:00
+P,チェコ,Czechia,Walk-In,9:00 ,21:00
+P,パビリオン/イベント当日登録・免税センター,Pavilion and Event On-Site Registration/Tax Refund Center,Walk-In,10:00 ,21:00
+P,国際赤十字・赤新月運動,International Red Cross and Red Crescent Movement,Reservation-Only,9:00 ,21:00
+P,国連,The United Nations,First-Come,9:30 ,21:00
+P,国際機関館,International Organization Pavilion,Walk-In,9:00 ,21:00
+X,Better Co-Being （宮田 裕章）,Better Co-Being,Reservation-Only,9:30 ,21:00
+X,いのちの未来（石黒 浩）,Future of Life,Reservation-Only,9:30 ,21:00
+X,いのちの遊び場 クラゲ館（中島 さち子）,Playground of Life: Jellyfish Pavilion,Partially Walk-In,9:30 ,21:00
+X,null2（落合 陽一）,null2,First-Come,9:30 ,21:00
+X,いのち動的平衡館（福岡 伸一）,DYNAMIC EQUILIBRIUM OF LIFE,Reservation-Only,9:30 ,21:00
+X,いのちめぐる冒険（河森 正治）,LIVE EARTH JOURNEY,Partially Walk-In,9:30 ,21:00
+X,EARTH MART（小山 薫堂）,EARTH MART,Reservation-Only,9:30 ,21:00
+X,Dialogue Theater - いのちのあかし -（河瀬 直美）,Dialogue Theater - sign of life -,"First-Come,Partially Walk-In",9:30 ,21:00
+W,テーマウィークスタジオ,Theme Week Studio,Walk-In,9:00 ,21:00
+W,TECH WORLD,TECH WORLD,First-Come,9:30 ,21:00
+W,ガスパビリオンおばけワンダーランド,GAS PAVILION,Partially Walk-In,9:30 ,21:00
+W,飯田グループ×大阪公立大学共同出展館,Iida Group x Osaka Metropolitan Univ.,First-Come,9:30 ,21:00
+W,ORA外食パビリオン「宴～UTAGE～」,ORA Gaishoku Pailion,Walk-In,9:30 ,21:00
+W,BLUE OCEAN DOME,BLUE OCEAN DOME,Walk-In,9:30 ,21:00
+W,GUNDAM NEXT FUTURE PAVILION,GUNDAM NEXT FUTURE PAVILION,Reservation-Only,9:00 ,21:00
+W,PASONA NATUREVERSE,PASONA NATUREVERSE,First-Come,9:00 ,21:00
+W,よしもと waraii myraii館,YOSHIMOTO Pavilion,Walk-In,9:00 ,21:00
+E,関西パビリオン,KANSAI Pavilion,Reservation-Only,9:15 ,21:00
+E,大阪ヘルスケアパビリオン Nest for Reborn,Osaka Healthcare Pavilion,First-Come,9:00 ,21:00
+E,NTT Pavilion,NTT Pavilion,Walk-In,9:00 ,21:00
+E,三菱未来館,Mitsubishi Pavilion,First-Come,9:00 ,21:00
+E,パナソニックグループパビリオン,Panasonic Group Pavilion,Reservation-Only,9:30 ,21:00
+E,住友館,Sumitomo Pavilion,First-Come,9:00 ,21:00
+E,電力館 可能性のタマゴたち,Electric Poewr Pavilion,Reservation-Only,9:30 ,21:00
+E,ウーマンズ パビリオン,Women's Pavilion,First-Come,9:00 ,21:00
+E,日本館,Japan Pavilion,Partially Walk-In,9:30 ,21:00
+L,フューチャーライフヴィレッジ,Future Life Village,Walk-In,10:00 ,21:00
+L,未来の都市,Future City,First-Come,9:20 ,21:00
+L,モビリティエクスペリエンス,Mobility Experience,Reservation-Only,9:00 ,18:00
+L,ジュニアSDGsキャンプ,Junior SDGs Camp,Walk-In,9:00 ,20:30
+M,カーボンリサイクルファクトリー(RITE),Carbon Recycle Factory(RITE),Reservation-Only,10:00,17:00
+M,カーボンリサイクルファクトリー(大阪ガス),Carbon Recycle Factory（OSAKA GAS）,Reservation-Only,10:40,17:00
